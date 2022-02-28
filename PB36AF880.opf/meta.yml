@@ -1,0 +1,12 @@
+id: PB36AF880
+initial_creation_type: input
+source_metadata:
+  title: Tilopa
+  language: en
+  description: 'Texts by and about the great siddha Tilopa (ti lo pa, 988–1069):'
+  volume:
+    760bbcbe2b8943e494b974789cab3286:
+      title: The Ganges Mahāmudrā Instructions
+      parent: Advice
+created_at: '2022-03-01T02:25:12.715746'
+last_modified_at: '2022-03-01T02:25:12.715753'
